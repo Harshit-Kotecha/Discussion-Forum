@@ -1,0 +1,3 @@
+- Login and signup API
+- GET and POST API for scores
+- 
